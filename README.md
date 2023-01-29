@@ -4,4 +4,4 @@ Ce tutoriel à été réalisé par Henno Théo, et consiste à faire un characte
 
 Version d'Unity : 2021.3.10f1
 
-Le tuto : 
+Le tuto : https://youtu.be/3QRPIZUQcC8
